@@ -1,0 +1,8 @@
+[
+    {
+        "ProjectName": "STM32_LLD",
+        "ProjectVersion": "0.1.0",
+        "Target": "STM32H755",
+        "ProjectDependencies": null
+    }
+]
